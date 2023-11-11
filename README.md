@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -6,9 +6,9 @@
   <title>Web Developer Profile</title>
 </head>
 <body>
-  <h1>Maxim Kolomiets - Web Developer</h1>
-  <p>I am a web developer based in St. Petersburg. I specialize in front-end development and have experience with HTML, CSS, and JavaScript.</p>
-
+    <h1 align="center">Hi there, I'm <a href="[https://](https://t.me/jkdlon)" target="_blank">Maksim</a> 
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+    <h3 align="center">I am a web developer based in St. Petersburg. I specialize in front-end development</h3>
   <h2>Skills</h2>
   <ul>
     <li>HTML</li>
