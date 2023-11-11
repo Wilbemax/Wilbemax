@@ -7,7 +7,7 @@
 		<h1 align="center">
 			Hi there, I'm
 			<a
-				href="https://https://t.me/jkdlon"
+				href="https://t.me/jkdlon"
 				target="_blank"
 				>Maksim
 			</a>
