@@ -48,10 +48,6 @@
 						width="100px"
 						src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"
 						alt="" />
-					<img
-						width="100px"
-						src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png"
-						alt="" />
 				</div>
 			</div>
 		</div>
