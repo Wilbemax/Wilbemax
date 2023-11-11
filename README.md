@@ -70,7 +70,7 @@
 				</div>
 			</div>
       <div>
-				<h2 align="center">What skills am I learning/h2>
+				<h2 align="center">What skills am I learning</h2>
 				<div align="center">
 					<img
 						width="100px"
