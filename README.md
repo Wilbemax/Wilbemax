@@ -92,26 +92,5 @@
 			</div>
 		</div>
 
-		<h2>Projects</h2>
-		<ul>
-			<li>
-				<a href="https://example.com/project1">Project 1</a> - Description of
-				project 1.
-			</li>
-			<li>
-				<a href="https://example.com/project2">Project 2</a> - Description of
-				project 2.
-			</li>
-			<li>
-				<a href="https://example.com/project3">Project 3</a> - Description of
-				project 3.
-			</li>
-		</ul>
-
-		<h2>Contact</h2>
-		<p>
-			You can reach me at example@example.com or connect with me on
-			<a href="https://linkedin.com/in/maximkolomiets">LinkedIn</a>.
-		</p>
-	</body>
+		
 </html>
