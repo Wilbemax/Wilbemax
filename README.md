@@ -7,13 +7,13 @@
 		<h1 align="center">
 			Hi there, I'm
 			<a
-				href="[https://](https://t.me/jkdlon)"
+				href="https://https://t.me/jkdlon"
 				target="_blank"
 				>Maksim
 			</a>
 			<img
 				src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"
-				height="32" />
+				height="32" alt=""/>
 		</h1>
 		<h3 align="center">
 			I am a web developer based in St. Petersburg. I specialize in front-end
