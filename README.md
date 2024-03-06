@@ -29,7 +29,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
 
 
-### :
+### I'm learning :
 [![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-f9fbfa?logo=TypeScript&style=for-the-badge)](https://www.typescriptlang.org/)
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
