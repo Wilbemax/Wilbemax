@@ -32,7 +32,7 @@
 
 
  <br />
-##What I used in my projects
+### What I used in my projects:
 
 [![MobX](https://img.shields.io/badge/-MobX-f9fbfa?logo=mobx&style=for-the-badge)](https://mobx.js.org/README.html)
 [![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&style=for-the-badge)](https://material-ui.com/)
