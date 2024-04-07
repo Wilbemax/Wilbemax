@@ -1,5 +1,5 @@
-# Hello <img src="https://i.gifer.com/fetch/w300-preview/e0/e08f73642d422d94483c0ca96f737ac2.gif" width="25px"> , &nbsp; My name is Maksim
-<div class="tenor-gif-embed" data-postid="17554626" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626">Waving Hand Joypixels Sticker</a>from <a href="https://tenor.com/search/waving+hand-stickers">Waving Hand Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+# Hello 👋 , &nbsp; My name is Maksim
+
 ### 👨🏼‍💻 And I'am a JavaScript Developer from saint-Petersburg!
 
 
@@ -29,6 +29,7 @@
 [![WebSocket](https://img.shields.io/badge/-WebSocket-f9fbfa?logo=websocket&style=for-the-badge)](https://developer.mozilla.org/ru/docs/Web/API/WebSocket)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
 
+ <br />
 ##What I used in my projects
 [![MobX](https://img.shields.io/badge/-MobX-f9fbfa?logo=mobx&style=for-the-badge)](https://mobx.js.org/README.html)
 [![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&style=for-the-badge)](https://material-ui.com/)
