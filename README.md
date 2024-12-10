@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilbemax&label=Profile%20views&color=0e75b6&style=flat" alt="wilbemax" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/cammaler" target="_blank">
