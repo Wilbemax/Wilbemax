@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilbemax&label=Profile%20views&color=0e75b6&style=flat" alt="wilbemax" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/cammaler" target="_blank">
+<a href="https://t.me/wilbemax" target="_blank">
   <img align="left" alt="Wilbeamx | Telegram" width="35" height='35' src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
 </a>
 <a href="https://instagram.com/wilbemax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wilbemax" width="35" height='35' /></a>
